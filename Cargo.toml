@@ -1,0 +1,8 @@
+[package]
+name = "hackit-v2"
+version = "0.1.0"
+authors = ["Dylan Conrad Johnson <djohnson@ancestry.com>"]
+
+[dependencies.libhackit-v2]
+name = "libhackit_v2"
+git = "https://github.com/dcjohnson/libhackit-v2.git"
