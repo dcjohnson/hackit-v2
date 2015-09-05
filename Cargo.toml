@@ -1,7 +1,7 @@
 [package]
 name = "hackit-v2"
 version = "0.1.0"
-authors = ["Dylan Conrad Johnson <djohnson@ancestry.com>"]
+authors = ["Dylan Conrad Johnson <dylanatasmsa@gmail.com>"]
 
 [dependencies.libhackit-v2]
 name = "libhackit_v2"
