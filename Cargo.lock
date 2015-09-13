@@ -8,5 +8,5 @@ dependencies = [
 [[package]]
 name = "libhackit-v2"
 version = "0.1.0"
-source = "git+https://github.com/dcjohnson/libhackit-v2.git#7467142a04241b798c4bdf08d15ac80863994060"
+source = "git+https://github.com/dcjohnson/libhackit-v2.git#c5228e36d23ac9bfc0560ec6eff3c299cdffb78b"
 
