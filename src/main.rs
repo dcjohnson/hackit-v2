@@ -1,7 +1,7 @@
 extern crate libhackit_v2;
 use libhackit_v2::lex::{Lexer, LexerTrait};
 use libhackit_v2::parse::{Parser, ParserTrait};
-use libhackit_v2::eval::{Eval, EvalTrait, PrettyPrint};
+use libhackit_v2::eval::{Eval, EvalTrait};
 
 fn main() {
     let lexer = Lexer::new("((set (name a) (params b c) (body (println (add 5 (add (c) (b)) 20))))(a 90 1))");
